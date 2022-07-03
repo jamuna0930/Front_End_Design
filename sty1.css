@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+html,body{
+    height: 100%;
+}
+nav{
+    height:50px;
+    background:rgba(0,0,0,.5);
+    width:100%;
+    position:fixed;
+    z-index: 99;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 35px;
+    line-height: 20px;
+    padding: auto;
+
+}
+h2,p{
+    margin-bottom: 10px;
+    padding: 10px;
+}
+p{
+    line-height: 30px;
+    font-family: Arial;
+}
+.section{
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.subsection{
+    height: 50%;
+    background: silver;
+   padding-top: 50px;
+}
+.sec1{
+    background-image: url('../image.html/download\ \(1\).jfif');
+   
+}
+.sec2{
+    background-image: url('../image.html/img4.jpg');
+   
+}
+.sec3{
+    background-image: url('../image.html/background-image.htm');
+  
+}
+.sec4{
+    background-image: url('../image.html/img2.jfif');
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
